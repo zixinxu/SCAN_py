@@ -27,13 +27,13 @@ The current version is for simulation and reconstruction with a known probe. You
 
 Fig. 1: Best performance of different methods under noise-free condition
 
-![](.\fig\comnoisefree.png)
+<img src=".\fig\comnoisefree.png"/>
 
 #### Ptychography
 
 Fig. 2: Ptychographic reconstruction comparisons between ePIE and SCAN at overlap rates of 30%, 50%, and 70%.
 
-![](.\fig\ptychogra.svg)
+<img src=".\fig\ptychogra.svg"/>
 
 More results could be found in the paper
 
