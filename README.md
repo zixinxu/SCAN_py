@@ -2,9 +2,9 @@
 
 [paper](https://arxiv.org/abs/2311.14925)
 
-[TOC]
 
-<img src="C:\Users\xzx\Downloads\Fig1.png" style="zoom:300%;" />
+
+<img src=".\fig\Fig1.png" style="zoom:300%;" />
 
 ### Abstract
 
@@ -27,13 +27,13 @@ The current version is for simulation and reconstruction with a known probe. You
 
 Fig. 1: Best performance of different methods under noise-free condition
 
-![](C:\Users\xzx\Downloads\comnoisefree.png)
+![](.\fig\comnoisefree.png)
 
 #### Ptychography
 
 Fig. 2: Ptychographic reconstruction comparisons between ePIE and SCAN at overlap rates of 30%, 50%, and 70%.
 
-![](C:\Users\xzx\Downloads\ptychogra.svg)
+![](.\fig\ptychogra.svg)
 
 More results could be found in the paper
 
