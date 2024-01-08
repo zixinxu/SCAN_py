@@ -1,4 +1,4 @@
-## SCAN
+# Coordinate-based Neural Network for Fourier Phase Retrieval
 
 [paper](https://arxiv.org/abs/2311.14925)
 
